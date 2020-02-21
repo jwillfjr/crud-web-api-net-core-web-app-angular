@@ -1,0 +1,11 @@
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\bin\Debug\netcoreapp3.1\ExampleCRUD.Application.deps.json
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\bin\Debug\netcoreapp3.1\ExampleCRUD.Application.dll
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\bin\Debug\netcoreapp3.1\ExampleCRUD.Application.pdb
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\bin\Debug\netcoreapp3.1\ExampleCRUD.Domain.dll
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\bin\Debug\netcoreapp3.1\ExampleCRUD.Domain.pdb
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\obj\Debug\netcoreapp3.1\ExampleCRUD.Application.csprojAssemblyReference.cache
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\obj\Debug\netcoreapp3.1\ExampleCRUD.Application.AssemblyInfoInputs.cache
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\obj\Debug\netcoreapp3.1\ExampleCRUD.Application.AssemblyInfo.cs
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\obj\Debug\netcoreapp3.1\ExampleCRUD.Application.csproj.CopyComplete
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\obj\Debug\netcoreapp3.1\ExampleCRUD.Application.dll
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Application\obj\Debug\netcoreapp3.1\ExampleCRUD.Application.pdb

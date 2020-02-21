@@ -1,0 +1,40 @@
+<mat-card style="margin: 5%;" [ngStyle]="{'display': !editing? 'block' : 'none'}">
+    <user-search-card [userSearchAbstractProvider]="userSearchService" 
+    (onPartnerSelectedEvent)="loadUsers($event)"
+    (onAddEvent)="add()">
+    </user-search-card>
+    <!-- <mat-divider style="width: 95%; margin-left: 16px;"></mat-divider> -->
+    <table class="example-full-width" cellspacing="0">
+        <tr *ngFor="let user of users" class="example-full-width" style="margin-top: 10px;">
+            <td>
+                <mat-form-field class="example-full-width">
+                    <input [(ngModel)]="user.name" matInput placeholder="Name" readonly>
+                </mat-form-field>
+            </td>
+            <td>
+                <mat-form-field class="example-full-width">
+                    <input [(ngModel)]="user.cpfCnpj" matInput placeholder="Cpf" readonly>
+                </mat-form-field>
+            </td>
+            <td>
+                <mat-form-field class="example-full-width">
+                    <input [(ngModel)]="user.addressStreet" matInput placeholder="Street" readonly>
+                </mat-form-field>
+            </td>
+            <td>
+                <button mat-mini-fab color="green" (click)="edit(user)">
+                    <mat-icon aria-hidden="false">edit</mat-icon>
+                </button>
+            </td>
+            <td>
+                <button mat-mini-fab color="warn" (click)="remove(user)">
+                    <mat-icon aria-hidden="false">remove</mat-icon>
+                </button>
+            </td>
+        </tr>
+    </table>
+</mat-card>
+<mat-card style="margin: 5%;" [ngStyle]="{'display': editing? 'block' : 'none'}">
+    <user-crud [userSearchAbstractProvider]="userSearchService" (onCancelEvent)="onCancel()"
+        (onSaveEvent)="onSave($event)"></user-crud>
+</mat-card>

@@ -1,0 +1,22 @@
+<form class="user-search-card-form" [formGroup]="options">
+    <table class="user-search-card-full-width" cellspacing="0">
+        <tr>
+            <td>
+                <mat-form-field class="user-search-card-full-width">
+                    <input matInput placeholder="Name or Cpf/Cnpj#" formControlName="nameOrDocument" autocomplete="off">
+                </mat-form-field>
+            </td>
+            <td>
+                <button mat-mini-fab color="primary" (click)="search()">
+                    <mat-icon aria-hidden="false">search</mat-icon>
+                </button>
+            </td>
+            <td>
+                <button mat-mini-fab color="primary" (click)="add()">
+                    <mat-icon aria-hidden="false">add</mat-icon>
+                </button>
+            </td>
+        </tr>
+    </table>
+
+</form>

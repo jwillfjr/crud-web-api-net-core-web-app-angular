@@ -1,0 +1,11 @@
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\bin\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.deps.json
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\bin\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.dll
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\bin\Debug\netcoreapp3.1\ExampleCRUD.Domain.dll
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\bin\Debug\netcoreapp3.1\ExampleCRUD.Domain.pdb
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\obj\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.csprojAssemblyReference.cache
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\obj\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.AssemblyInfoInputs.cache
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\obj\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.AssemblyInfo.cs
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\obj\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.csproj.CopyComplete
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\bin\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.pdb
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\obj\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.dll
+D:\dev\rommanel\crud-web-api-net-core-web-app-angular\ExampleCRUD\ExampleCRUD.Infra.Data.DapperData\obj\Debug\netcoreapp3.1\ExampleCRUD.Infra.Data.DapperData.pdb
